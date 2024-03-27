@@ -1,2 +1,0 @@
-# RULES
-Personal collect rule
